@@ -21,4 +21,6 @@ This project demonstrates unit testing in C# using NUnit, with a focus on testin
 - **NUnit** for unit testing.
 - **Payroll_Lib** library (installed via NuGet).
 
+If you want to check the Methods/Functions here is the c# code: https://pastebin.com/YkhTz0zE
+
 ![imageedit_2_9813914228](https://github.com/user-attachments/assets/ccac6ab0-bda3-4aa8-9889-39dcb1b4f757)
